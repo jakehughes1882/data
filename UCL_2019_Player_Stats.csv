@@ -1,0 +1,753 @@
+Player,Club,Age,Position,Minutes,Goals,xG,xGDiff,Assists,xA,xADiff,Dribbles,DribblesCompleted,PlayersDribbledPast,Nutmegs,Interceptions,TacklesWon,DribbledPast
+Lionel Messi,Barcelona,32,"FW,MF",391,2,3.3,-1.3,3,2.6,0.4,62,44,47,3,3,1,3
+Emmanuel Dennis,Club Brugge,21,FW,458,2,2.6,-0.6,1,0.2,0.8,43,23,26,2,5,8,11
+Daniel Podence,Olympiacos,23,MF,458,1,1.4,-0.4,0,0.7,-0.7,33,22,23,4,2,5,4
+Willian,Chelsea,30,MF,501,1,1,0,1,1.8,-0.8,28,22,23,1,0,2,5
+Jadon Sancho,Borussia Dortmund,19,MF,468,2,2,0,2,1.1,0.9,32,21,22,1,2,5,7
+Bruno Petković,Dinamo Zagreb,24,FW,465,1,0.6,0.4,1,0.5,0.5,30,21,21,0,2,3,3
+Houssem Aouar,Lyon,21,MF,355,1,0.2,0.8,2,0.4,1.6,31,20,20,1,2,7,14
+Dani Olmo,Dinamo Zagreb,21,FW,540,2,1,1,1,0.9,0.1,41,19,24,5,5,10,6
+Mohamed Salah,Liverpool,27,"FW,MF",540,4,4.3,-0.3,2,1.1,0.9,27,19,21,1,0,2,1
+Eden Hazard,Real Madrid,28,"FW,MF",376,0,1.4,-1.4,1,0.7,0.3,33,19,20,0,0,3,3
+Jeff Reine-Adélaïde,Lyon,21,MF,276,0,0.3,-0.3,0,0.1,-0.1,25,19,20,0,0,3,4
+Tanguy Ndombele,Tottenham,22,MF,313,0,0.4,-0.4,2,0.9,1.1,22,19,19,0,5,6,11
+Joakim Mæhle,Genk,22,DF,540,0,0.1,-0.1,0,0.2,-0.2,29,18,21,1,9,10,11
+Son Heung-min,Tottenham,27,"FW,MF",365,5,3.5,1.5,2,0.9,1.1,29,18,19,3,1,1,11
+Hakim Ziyech,Ajax,26,"FW,MF",499,2,1,1,4,2.1,1.9,34,17,18,5,2,8,19
+Mateo García,FK Crvena Zvezda,22,MF,490,0,0.3,-0.3,0,0.2,-0.2,34,16,18,1,8,16,25
+Mateo Kovačić,Chelsea,25,MF,432,1,0.5,0.5,0,0.9,-0.9,24,16,17,1,3,4,3
+Papu Gómez,Atalanta,31,"FW,MF",495,1,1.6,-0.6,1,1.8,-0.8,23,16,16,4,3,4,5
+Krepin Diatta,Club Brugge,20,MF,436,1,0.3,0.7,0,0.5,-0.5,24,14,16,1,5,5,5
+Alphonso Davies,Bayern Munich,18,FW,270,0,0.3,-0.3,2,0.2,1.8,18,14,15,0,4,8,6
+Christian Pulisic,Chelsea,20,MF,266,1,0.9,0.1,1,1.4,-0.4,22,14,15,0,0,1,3
+Kingsley Coman,Bayern Munich,23,"FW,MF",368,2,2,0,1,0.5,0.5,24,14,15,0,0,4,6
+Boubakary Soumaré,Lille,20,MF,527,0,0.1,-0.1,0,0.6,-0.6,18,14,14,0,12,10,2
+Frenkie de Jong,Barcelona,22,MF,477,0,0.1,-0.1,0,0.1,-0.1,14,14,14,0,9,11,8
+Kostas Tsimikas,Olympiacos,23,DF,540,0,0,0,1,1.2,-0.2,19,14,14,3,11,14,7
+Raheem Sterling,Manchester City,24,"FW,MF",411,5,3.7,1.3,2,2.1,-0.1,22,14,14,1,6,6,4
+Thomas Partey,Atletico Madrid,26,MF,526,1,1.2,-0.2,1,1,0,15,14,14,0,8,15,12
+Karim Bellarabi,Bayer Leverkusen,29,"FW,MF",413,0,0.3,-0.3,1,1.2,-0.2,26,13,17,0,2,4,9
+Julian Brandt,Borussia Dortmund,23,MF,467,2,0.8,1.2,3,1.9,1.1,16,13,15,1,2,3,12
+Memphis Depay,Lyon,25,"FW,MF",394,5,2.5,2.5,0,0.8,-0.8,21,13,15,1,1,1,2
+Adel Taarabt,Benfica,30,"FW,MF",360,0,0.3,-0.3,1,0.9,0.1,19,13,14,2,3,2,5
+Fabián Ruiz Peña,Napoli,23,MF,540,0,0.5,-0.5,0,0.7,-0.7,18,13,14,1,12,4,11
+Philippe Coutinho,Bayern Munich,27,"FW,MF",413,1,1.9,-0.9,2,0.8,1.2,21,13,14,0,2,1,8
+Sadio Mané,Liverpool,27,"FW,MF",465,2,2.2,-0.2,2,1.3,0.7,20,13,14,2,2,6,4
+Achraf Hakimi,Borussia Dortmund,20,DF,533,4,1.6,2.4,0,0.6,-0.6,24,13,13,0,3,6,4
+Cristiano Ronaldo,Juventus,34,"FW,MF",532,2,3.4,-1.4,1,0.2,0.8,19,13,13,1,4,0,1
+Gonzalo Higuaín,Juventus,31,"FW,MF",399,2,1.3,0.7,2,0.9,1.1,16,13,13,0,0,1,4
+Guilherme,Olympiacos,28,MF,450,1,0.6,0.4,1,1,0,14,13,13,0,3,5,17
+Juan Bernat,Paris Saint-Germain,26,"DF,FW",525,0,0,0,2,1.5,0.5,18,13,13,0,6,7,14
+Marko Marin,FK Crvena Zvezda,30,"FW,MF",540,0,0.7,-0.7,2,0.9,1.1,17,13,13,0,3,2,11
+Takumi Minamino,Salzburg,24,"FW,MF",510,2,1.4,0.6,3,2.2,0.8,20,13,13,1,2,4,15
+Ismaily,Shakhtar Donetsk,29,DF,540,0,0.2,-0.2,0,0.5,-0.5,27,12,16,2,14,20,5
+Ángel Di María,Paris Saint-Germain,31,"FW,MF",428,2,2,0,3,2.3,0.7,21,12,14,3,1,3,9
+Taison,Shakhtar Donetsk,31,"FW,MF",450,0,0.3,-0.3,0,0.8,-0.8,17,12,14,3,3,5,8
+Fyodor Smolov,Lokomotiv Moscow,29,"FW,MF",201,0,0.2,-0.2,0,0,0,21,12,13,0,3,0,1
+Roberto Firmino,Liverpool,27,"FW,MF",426,0,0.6,-0.6,3,1.8,1.2,15,12,13,1,2,7,5
+Youssouf Koné,Lyon,24,DF,392,0,0.1,-0.1,0,0.1,-0.1,14,12,13,0,11,3,2
+Gabriel Jesus,Manchester City,22,FW,320,4,2.9,1.1,2,1.6,0.4,16,12,12,0,2,1,0
+Naby Keïta,Liverpool,24,MF,251,1,0.8,0.2,0,0.6,-0.6,13,12,12,0,1,10,4
+Robert Lewandowski,Bayern Munich,30,FW,437,10,6.8,3.2,0,0.5,-0.5,18,12,12,1,1,4,7
+Karim Benzema,Real Madrid,31,FW,463,4,4.6,-0.6,2,3.1,-1.1,19,11,13,0,2,2,5
+Leo Dubois,Lyon,24,DF,450,0,0.1,-0.1,2,0.8,1.2,18,11,13,0,6,7,3
+Rodrygo,Real Madrid,18,FW,270,4,1.5,2.5,2,0.9,1.1,17,11,13,0,3,2,3
+Júnior Moraes,Shakhtar Donetsk,32,FW,527,2,2.4,-0.4,1,0.6,0.4,24,11,12,1,2,2,9
+Kylian Mbappé,Paris Saint-Germain,20,FW,330,5,4.8,0.2,3,1.8,1.2,25,11,12,0,1,1,3
+Hwang Hee-chan,Salzburg,23,FW,540,3,2.2,0.8,3,2.7,0.3,20,11,11,1,1,2,2
+Jean Seri,Galatasaray,28,MF,478,0,0.1,-0.1,0,0.4,-0.4,11,11,11,0,2,5,8
+Lisandro Martínez,Ajax,21,DF,538,0,0.2,-0.2,0,0.1,-0.1,13,11,11,0,8,8,12
+Mohamed Camara,Olympiacos,22,DF,418,0,0.2,-0.2,0,0.2,-0.2,12,11,11,0,5,5,8
+Rodri,Manchester City,23,MF,363,0,0.3,-0.3,0,0,0,11,11,11,0,8,13,11
+Junya Ito,Genk,26,FW,441,0,0.3,-0.3,0,0.2,-0.2,21,10,13,0,4,6,11
+Adrien Rabiot,Juventus,24,MF,200,0,0,0,0,0.4,-0.4,13,10,11,0,0,5,5
+Harry Kane,Tottenham,26,FW,450,6,4.6,1.4,0,0.7,-0.7,17,10,11,0,0,1,2
+Josip Iličić,Atalanta,31,MF,336,0,1,-1,0,0.9,-0.9,18,10,11,0,0,0,1
+Lukáš Masopust,Slavia Prague,26,MF,475,0,1.2,-1.2,1,0.5,0.5,16,10,11,1,4,7,12
+Neymar,Paris Saint-Germain,27,"FW,MF",135,1,0.7,0.3,2,0.9,1.1,17,10,11,0,1,2,0
+Peter Olayinka,Slavia Prague,23,FW,535,1,0.7,0.3,0,0.4,-0.4,26,10,11,0,6,12,6
+Theo Bongonda,Genk,23,FW,257,0,0.7,-0.7,1,0.3,0.7,15,10,11,0,0,2,3
+Kevin De Bruyne,Manchester City,28,MF,304,0,0.4,-0.4,1,1.2,-0.2,14,10,10,1,4,4,4
+Lorenzo Insigne,Napoli,28,FW,181,1,1.2,-0.2,1,0.5,0.5,14,10,10,0,2,0,5
+Mariano,Galatasaray,33,DF,540,0,0,0,0,0.2,-0.2,16,10,10,0,11,7,8
+Marlos,Shakhtar Donetsk,31,MF,369,0,0.1,-0.1,1,0.3,0.7,16,10,10,1,2,4,2
+Thiago Alcántara,Bayern Munich,28,MF,405,0,1.4,-1.4,2,1.1,0.9,12,10,10,0,13,15,7
+Bertrand Traoré,Lyon,23,MF,229,1,0.2,0.8,0,0.1,-0.1,18,9,13,0,1,0,2
+Georginio Wijnaldum,Liverpool,28,MF,355,1,0.7,0.3,0,0.2,-0.2,14,9,12,1,2,3,1
+Phil Foden,Manchester City,19,MF,185,2,0.8,1.2,2,1.7,0.3,11,9,11,0,1,6,0
+Aleksei Miranchuk,Lokomotiv Moscow,23,MF,360,2,1.8,0.2,0,0.9,-0.9,15,9,10,0,4,3,9
+Alex Oxlade-Chamberlain,Liverpool,25,MF,182,3,0.5,2.5,0,0.2,-0.2,15,9,10,0,0,2,6
+Douglas Santos,Zenit St. Petersburg,25,DF,505,0,0.1,-0.1,1,0.2,0.8,16,9,10,0,10,9,16
+Dušan Tadić,Ajax,30,MF,540,0,0.7,-0.7,3,1.1,1.9,14,9,10,0,7,4,4
+João Cancelo,Manchester City,25,DF,388,0,0.1,-0.1,0,0.2,-0.2,14,9,10,1,8,9,6
+Paul Onuachu,Genk,25,FW,212,0,1.6,-1.6,0,0.6,-0.6,11,9,10,0,0,5,0
+Sander Berge,Genk,21,MF,540,0,0.2,-0.2,0,0.2,-0.2,12,9,10,0,7,7,9
+Álex Grimaldo,Benfica,23,DF,540,0,0.3,-0.3,0,0.8,-0.8,15,9,9,1,8,5,8
+Arijan Ademi,Dinamo Zagreb,28,MF,518,1,0.6,0.4,1,1.1,-0.1,9,9,9,0,2,4,10
+Dodô,Shakhtar Donetsk,20,DF,280,1,0.4,0.6,1,0.7,0.3,9,9,9,0,3,2,5
+Emil Forsberg,RasenBallsport Leipzig,27,MF,466,3,3,0,1,1.4,-0.4,15,9,9,0,0,5,3
+Ferrán Torres,Valencia,19,MF,300,1,0.4,0.6,1,0.9,0.1,15,9,9,0,4,5,5
+Juan Cuadrado,Juventus,31,"DF,MF",360,1,0.1,0.9,1,1,0,12,9,9,0,9,3,8
+Kai Havertz,Bayer Leverkusen,20,MF,434,0,0.9,-0.9,0,0.4,-0.4,14,9,9,0,1,2,6
+Kerem Demirbay,Bayer Leverkusen,26,MF,375,0,0.4,-0.4,0,0.4,-0.4,12,9,9,0,1,10,6
+Lautaro Martínez,Inter,21,FW,522,5,3.4,1.6,1,1.4,-0.4,14,9,9,0,2,2,11
+Marcelo Brozović,Inter,26,MF,521,0,0.3,-0.3,1,0.5,0.5,11,9,9,0,11,10,13
+Marco Verratti,Paris Saint-Germain,26,MF,465,0,0,0,0,1.5,-1.5,11,9,9,0,3,16,14
+Moussa Diaby,Bayer Leverkusen,20,MF,180,0,0.2,-0.2,0,0.1,-0.1,15,9,9,0,0,0,2
+Moussa Sissoko,Tottenham,29,MF,417,0,0.2,-0.2,1,0.2,0.8,15,9,9,0,4,7,3
+Ryan Babel,Galatasaray,32,"FW,MF",334,0,0.6,-0.6,0,0.3,-0.3,11,9,9,0,0,1,3
+Thiago Mendes,Lyon,27,MF,394,0,0.1,-0.1,0,0.1,-0.1,9,9,9,0,12,6,6
+Moussa Dembélé,Lyon,23,FW,461,0,0.6,-0.6,1,0.7,0.3,15,8,11,0,3,5,3
+Ousmane Dembélé,Barcelona,22,FW,136,0,0.2,-0.2,0,0.9,-0.9,16,8,10,1,0,0,1
+Álvaro Morata,Atletico Madrid,26,FW,380,2,1.6,0.4,0,0.1,-0.1,11,8,9,0,4,7,2
+Dele Alli,Tottenham,23,MF,368,1,1,0,1,1.2,-0.2,18,8,9,2,3,5,5
+Harry Winks,Tottenham,23,MF,261,0,0,0,0,0.1,-0.1,11,8,9,1,2,10,5
+João Mário,Lokomotiv Moscow,26,MF,355,0,0.5,-0.5,2,0.7,1.3,11,8,9,0,7,7,3
+Nélson Semedo,Barcelona,25,"DF,MF",360,0,0.4,-0.4,0,0.5,-0.5,12,8,9,0,7,10,2
+Nordi Mukiele,RasenBallsport Leipzig,21,DF,461,0,0.2,-0.2,0,0.5,-0.5,17,8,9,0,8,5,6
+Daniel Parejo,Valencia,30,MF,540,1,2.6,-1.6,2,1.1,0.9,14,8,8,2,10,9,16
+Enoch Mwepu,Salzburg,21,MF,404,0,0.2,-0.2,3,1,2,12,8,8,1,4,14,22
+Kévin Malcuit,Napoli,28,"DF,FW",147,0,0,0,0,0.3,-0.3,11,8,8,0,3,2,5
+Mason Mount,Chelsea,20,MF,271,0,0.4,-0.4,0,0.3,-0.3,12,8,8,0,1,8,4
+Mislav Oršić,Dinamo Zagreb,26,MF,476,4,2.6,1.4,1,0.8,0.2,15,8,8,1,2,2,10
+Ömer Bayram,Galatasaray,28,"FW,MF",251,0,0.1,-0.1,1,0.5,0.5,14,8,8,1,3,1,2
+Saúl Ñíguez,Atletico Madrid,24,MF,540,0,0.5,-0.5,0,0.3,-0.3,11,8,8,0,4,10,7
+Toni Kroos,Real Madrid,29,MF,450,1,1.1,-0.1,1,1.3,-0.3,11,8,8,0,7,12,13
+Younès Belhanda,Galatasaray,29,MF,306,0,0.4,-0.4,0,0.4,-0.4,13,8,8,0,3,6,4
+Martin Terrier,Lyon,22,FW,217,1,0.4,0.6,0,0.3,-0.3,10,7,9,0,3,2,5
+Alan Patrick,Shakhtar Donetsk,28,MF,497,1,0.6,0.4,2,1.2,0.8,10,7,8,0,5,5,13
+Allan,Napoli,28,"DF,MF",435,0,0.1,-0.1,0,0,0,10,7,8,1,5,16,16
+Konrad Laimer,RasenBallsport Leipzig,22,MF,410,1,0.5,0.5,0,0.5,-0.5,12,7,8,0,2,15,9
+Luiz Araújo,Lille,23,FW,277,0,0.4,-0.4,0,0,0,14,7,8,0,5,1,5
+Maxwel Cornet,Lyon,22,FW,199,0,0.3,-0.3,1,0.1,0.9,10,7,8,0,0,2,5
+Rodrigo Bentancur,Juventus,22,MF,239,0,0,0,0,0.3,-0.3,11,7,8,0,4,8,4
+Yussuf Poulsen,RasenBallsport Leipzig,25,FW,381,0,1.2,-1.2,1,0.2,0.8,9,7,8,0,1,0,3
+Yusuf Yazıcı,Lille,22,MF,372,0,1.2,-1.2,0,0.3,-0.3,12,7,8,0,4,8,10
+Antonio Candreva,Inter,32,MF,390,1,0.5,0.5,1,1.1,-0.1,8,7,7,0,4,1,4
+Arthur Melo,Barcelona,22,MF,264,0,0.1,-0.1,1,0.7,0.3,7,7,7,0,2,5,0
+Dayot Upamecano,RasenBallsport Leipzig,20,DF,391,0,0.2,-0.2,0,0,0,8,7,7,0,3,13,0
+Divock Origi,Liverpool,24,"FW,MF",128,0,0.3,-0.3,0,0,0,10,7,7,0,0,1,0
+Emre Mor,Galatasaray,22,MF,108,0,0.1,-0.1,0,0.1,-0.1,8,7,7,0,2,1,2
+Gabriel,Benfica,25,MF,441,0,0.4,-0.4,0,0.2,-0.2,8,7,7,0,17,10,18
+Grzegorz Krychowiak,Lokomotiv Moscow,29,MF,533,1,1.3,-0.3,0,0.1,-0.1,10,7,7,0,10,6,8
+Hans Vanaken,Club Brugge,26,MF,540,1,0.4,0.6,0,0.7,-0.7,7,7,7,0,1,7,17
+Jonathan Bamba,Lille,23,MF,280,0,0.7,-0.7,2,1.2,0.8,8,7,7,0,3,3,2
+Jonathan Ikone,Lille,21,FW,240,1,1,0,0,0.6,-0.6,12,7,7,0,0,0,3
+Marco Reus,Borussia Dortmund,30,"FW,MF",360,0,2.7,-2.7,1,0.8,0.2,11,7,7,0,1,9,7
+Patrik Hrošovský,Genk,27,MF,414,0,0.1,-0.1,0,0.2,-0.2,9,7,7,0,4,5,5
+Quincy Promes,Ajax,27,"FW,MF",425,4,2.4,1.6,0,0.2,-0.2,12,7,7,1,1,3,10
+Timo Werner,RasenBallsport Leipzig,23,"FW,MF",399,3,3.5,-0.5,1,0.5,0.5,15,7,7,2,2,3,3
+Vitolo,Atletico Madrid,29,"FW,MF",97,0,0.3,-0.3,0,0,0,7,7,7,0,0,0,0
+Wílmar Barrios,Zenit St. Petersburg,25,MF,540,0,0,0,0,0,0,13,7,7,2,23,15,20
+Yaroslav Rakitskiy,Zenit St. Petersburg,29,DF,450,1,0,1,0,0.3,-0.3,9,7,7,0,8,5,3
+İlkay Gündoğan,Manchester City,28,MF,540,2,1.9,0.1,2,0.6,1.4,9,6,8,0,8,7,6
+Rodrigo,Valencia,28,FW,450,2,2.9,-0.9,2,0.6,1.4,19,6,8,0,4,3,3
+Ángel Correa,Atletico Madrid,24,"FW,MF",263,0,1.1,-1.1,0,0.4,-0.4,12,6,7,0,3,4,5
+Callum Hudson-Odoi,Chelsea,18,MF,171,0,0.3,-0.3,1,0.4,0.6,13,6,7,0,1,1,0
+Charles Aránguiz,Bayer Leverkusen,30,MF,415,0,0.5,-0.5,1,0.3,0.7,9,6,7,0,1,3,13
+Douglas Costa,Juventus,28,"FW,MF",20,1,0.5,0.5,0,0,0,7,6,7,0,0,1,0
+Éder,Lokomotiv Moscow,31,FW,342,0,0.2,-0.2,0,0.1,-0.1,11,6,7,0,3,4,2
+Eduard Sobol,Club Brugge,24,DF,260,0,0,0,0,0,0,12,6,7,0,2,6,1
+Lucas Moura,Tottenham,26,"FW,MF",221,1,0.2,0.8,1,0.4,0.6,11,6,7,1,1,3,4
+Nadiem Amiri,Bayer Leverkusen,22,MF,237,0,0.4,-0.4,0,0.5,-0.5,10,6,7,0,1,8,5
+Petar Stojanović,Dinamo Zagreb,23,"DF,MF",507,0,0.1,-0.1,1,0.5,0.5,15,6,7,1,4,10,8
+Riyad Mahrez,Manchester City,28,"FW,MF",448,1,1.8,-0.8,4,2.3,1.7,8,6,7,0,3,4,11
+Serge Gnabry,Bayern Munich,24,"FW,MF",382,4,1.3,2.7,1,1.5,-0.5,15,6,7,0,2,11,12
+Tomás Tavares,Benfica,18,MF,450,0,0,0,0,0.4,-0.4,15,6,7,0,3,5,8
+Youssef El-Arabi,Olympiacos,32,FW,277,3,1.3,1.7,0,0,0,14,6,7,0,0,0,4
+Artem Dzyuba,Zenit St. Petersburg,30,FW,540,2,0.8,1.2,1,3.1,-2.1,14,6,6,2,1,3,4
+Erling Braut Håland,Salzburg,19,FW,374,8,5.3,2.7,1,0.4,0.6,11,6,6,1,1,1,7
+Giovanni Di Lorenzo,Napoli,25,DF,540,0,0.2,-0.2,2,0.7,1.3,12,6,6,2,1,13,7
+Hirving Lozano,Napoli,24,FW,394,1,0.3,0.7,0,0.2,-0.2,12,6,6,0,4,3,5
+Jason Denayer,Lyon,24,DF,450,0,0.1,-0.1,0,0.1,-0.1,6,6,6,1,3,4,2
+João Félix,Atletico Madrid,19,MF,291,2,2.2,-0.2,0,1,-1,10,6,6,0,1,1,3
+Joseph Paintsil,Genk,21,MF,156,0,0.5,-0.5,0,0.8,-0.8,7,6,6,0,2,1,1
+Kévin Théophile-Catherine,Dinamo Zagreb,29,DF,436,0,0,0,2,0.6,1.4,6,6,6,1,10,7,4
+Kieran Trippier,Atletico Madrid,28,DF,360,0,0.8,-0.8,1,0.6,0.4,9,6,6,0,6,6,3
+Leon Bailey,Bayer Leverkusen,21,FW,114,0,0,0,0,0.3,-0.3,12,6,6,0,0,1,2
+Mario Pašalić,Atalanta,24,MF,450,2,2.3,-0.3,0,0.3,-0.3,11,6,6,0,2,4,7
+N'Golo Kanté,Chelsea,28,MF,270,0,0.3,-0.3,0,0.9,-0.9,6,6,6,1,5,7,7
+Nicolò Barella,Inter,22,MF,289,1,0.3,0.7,0,0.1,-0.1,9,6,6,0,8,6,9
+Presnel Kimpembe,Paris Saint-Germain,23,DF,450,0,0,0,0,0,0,6,6,6,0,7,3,3
+Rajiv van La Parra,FK Crvena Zvezda,28,"FW,MF",355,0,0.3,-0.3,0,0.1,-0.1,12,6,6,0,1,1,9
+Rifat Zhemaletdinov,Lokomotiv Moscow,22,FW,359,0,0.5,-0.5,0,0.8,-0.8,11,6,6,0,2,5,10
+Andrew Robertson,Liverpool,25,DF,439,1,0.6,0.4,0,0.2,-0.2,10,5,6,0,3,6,8
+Francis Coquelin,Valencia,28,"DF,MF",356,0,0,0,0,0,0,9,5,6,0,10,7,5
+Giorgos Masouras,Olympiacos,25,MF,426,0,0.8,-0.8,1,0.4,0.6,15,5,6,2,6,8,11
+Juan Foyth,Tottenham,21,DF,197,0,0,0,0,0,0,7,5,6,0,2,3,2
+Manor Solomon,Shakhtar Donetsk,20,FW,134,2,0.8,1.2,0,0,0,8,5,6,0,1,2,3
+Marcel Sabitzer,RasenBallsport Leipzig,25,"FW,MF",450,2,0.8,1.2,2,1.3,0.7,11,5,6,0,1,3,12
+Mario Lemina,Galatasaray,25,"DF,MF",330,0,0.3,-0.3,0,0,0,7,5,6,0,4,9,6
+Nicolae Stanciu,Slavia Prague,26,MF,461,0,1.1,-1.1,0,1.3,-1.3,12,5,6,1,1,4,11
+Paulo Dybala,Juventus,25,"FW,MF",206,3,1.2,1.8,3,1.2,1.8,11,5,6,1,1,1,2
+Renato Sanches,Lille,21,MF,121,0,0,0,0,0.1,-0.1,9,5,6,0,3,2,5
+Romelu Lukaku,Inter,26,FW,405,2,2.4,-0.4,2,0.9,1.1,9,5,6,1,1,2,2
+Serge Aurier,Tottenham,26,DF,270,1,0.1,0.9,2,1.5,0.5,15,5,6,1,1,4,2
+Sergio Agüero,Manchester City,31,FW,196,2,2.7,-0.7,0,0,0,9,5,6,0,0,0,1
+Stefano Sensi,Inter,23,MF,191,0,0.3,-0.3,1,1,0,6,5,6,0,2,1,6
+Tammy Abraham,Chelsea,21,FW,458,2,3.9,-1.9,1,0.5,0.5,10,5,6,0,1,3,4
+Zeki Çelik,Lille,22,DF,540,0,0.3,-0.3,0,0.8,-0.8,11,5,6,0,12,8,6
+Andreas Ulmer,Salzburg,33,DF,540,1,0.4,0.6,0,0.4,-0.4,7,5,5,0,6,10,6
+Axel Witsel,Borussia Dortmund,30,MF,450,0,0.2,-0.2,0,0.1,-0.1,8,5,5,0,6,8,6
+Christopher Nkunku,RasenBallsport Leipzig,21,MF,252,0,0.6,-0.6,0,0.8,-0.8,8,5,5,1,0,7,2
+Danny Rose,Tottenham,29,"DF,MF",360,0,0,0,1,0.7,0.3,8,5,5,2,6,7,4
+Ferland Mendy,Real Madrid,24,DF,228,0,0,0,0,0,0,9,5,5,0,2,4,4
+Isco,Real Madrid,27,MF,188,0,1,-1,0,0.1,-0.1,7,5,5,0,3,3,3
+Jan Bořil,Slavia Prague,28,DF,540,1,0.4,0.6,0,0.4,-0.4,9,5,5,0,7,2,13
+José Luis Gayà,Valencia,24,"DF,MF",360,0,0.1,-0.1,0,1.1,-1.1,9,5,5,1,3,6,7
+Joshua Kimmich,Bayern Munich,24,MF,472,1,0.2,0.8,0,0.8,-0.8,6,5,5,0,6,6,10
+Luis Suárez,Barcelona,32,FW,388,3,2.5,0.5,2,1.1,0.9,8,5,5,0,2,3,4
+Mbwana Samatta,Genk,26,FW,513,3,1.9,1.1,0,0,0,8,5,5,0,0,3,0
+Reinildo Mandava,Lille,25,DF,180,0,0,0,0,0,0,5,5,5,1,3,8,4
+Richmond Boakye,FK Crvena Zvezda,26,FW,186,1,0.4,0.6,0,0.1,-0.1,5,5,5,0,0,0,1
+Ruslan Malinovskyi,Atalanta,26,MF,203,1,0.9,0.1,1,1.2,-0.2,8,5,5,0,2,3,10
+Thomas Lemar,Atletico Madrid,23,MF,182,0,0.2,-0.2,0,0.5,-0.5,8,5,5,0,0,2,1
+Thorgan Hazard,Borussia Dortmund,26,MF,344,0,0.7,-0.7,0,1.6,-1.6,11,5,5,0,1,6,5
+Wendell,Bayer Leverkusen,26,DF,351,0,0.1,-0.1,0,0.1,-0.1,5,5,5,0,4,17,6
+Yevhen Konoplyanka,Shakhtar Donetsk,29,"FW,MF",180,1,0.3,0.7,0,0,0,8,5,5,0,0,2,2
+Yuto Nagatomo,Galatasaray,32,DF,525,0,0,0,0,0.1,-0.1,8,5,5,0,8,3,7
+Bernardo Silva,Manchester City,24,"FW,MF",339,0,0.2,-0.2,1,0.5,0.5,11,4,7,0,2,1,7
+Casper de Norre,Genk,22,MF,257,0,0.1,-0.1,0,0.6,-0.6,6,4,5,0,3,2,8
+Kevin Volland,Bayer Leverkusen,27,FW,458,1,1,0,0,0.3,-0.3,9,4,5,1,1,3,3
+Luis Muriel,Atalanta,28,FW,199,1,1.5,-0.5,0,0.6,-0.6,10,4,5,0,0,4,4
+Marcos Alonso,Chelsea,28,DF,315,0,0.6,-0.6,0,0.3,-0.3,8,4,5,1,2,6,2
+Mitchell Weiser,Bayer Leverkusen,25,"DF,MF",270,0,0.1,-0.1,0,0.4,-0.4,7,4,5,0,6,6,2
+Patson Daka,Salzburg,20,FW,241,1,1.7,-0.7,0,0.4,-0.4,9,4,5,0,1,4,1
+Raphaël Guerreiro,Borussia Dortmund,25,"DF,MF",368,0,0.1,-0.1,0,0.1,-0.1,9,4,5,1,7,1,2
+Reece James,Chelsea,19,,202,1,0.1,0.9,0,0.5,-0.5,7,4,5,0,2,4,2
+Valentino Lazaro,Inter,23,MF,100,0,0,0,1,0,1,5,4,5,0,1,1,3
+Alex Sandro,Juventus,28,DF,360,0,0.2,-0.2,2,0.7,1.3,6,4,4,0,6,6,6
+Amadou Haidara,RasenBallsport Leipzig,21,MF,213,0,0.1,-0.1,0,0.3,-0.3,7,4,4,0,4,8,7
+Ander Herrera,Paris Saint-Germain,29,MF,99,0,0,0,0,0,0,6,4,4,0,3,2,1
+Brandon Mechele,Club Brugge,26,DF,450,0,0.2,-0.2,0,0,0,5,4,4,0,8,3,6
+Casemiro,Real Madrid,27,MF,510,1,0.3,0.7,1,0.4,0.6,4,4,4,0,6,15,15
+Charles De Ketelaere,Club Brugge,18,MF,126,0,0.1,-0.1,0,0.1,-0.1,5,4,4,0,1,1,3
+Corentin Tolisso,Bayern Munich,24,"DF,MF",298,2,1.2,0.8,4,0.6,3.4,8,4,4,0,2,5,1
+Diego Godín,Inter,33,DF,450,0,0.1,-0.1,0,0,0,5,4,4,0,14,7,8
+Dmitri Barinov,Lokomotiv Moscow,22,MF,450,1,0.4,0.6,0,0.1,-0.1,4,4,4,0,6,5,14
+Domagoj Bradarić,Lille,19,DF,270,0,0,0,0,0.1,-0.1,9,4,4,0,2,2,5
+Francisco Reis Ferreira,Benfica,22,DF,376,0,0,0,0,0.1,-0.1,4,4,4,0,6,6,11
+Haris Seferović,Benfica,27,FW,208,2,1.3,0.7,0,0.1,-0.1,6,4,4,0,0,0,1
+Ianis Hagi,Genk,20,MF,140,0,0.4,-0.4,0,0.5,-0.5,7,4,4,2,1,2,7
+Idrissa Gana Gueye,Paris Saint-Germain,29,MF,315,0,0.1,-0.1,1,0.2,0.8,5,4,4,0,8,3,7
+James Milner,Liverpool,33,MF,367,0,0.2,-0.2,1,0.4,0.6,6,4,4,0,3,3,5
+Jaroslav Zelený,Slavia Prague,26,DF,109,0,0.4,-0.4,1,0.2,0.8,7,4,4,1,1,1,2
+Kyle Walker-Peters,Tottenham,22,DF,90,0,0,0,0,0,0,7,4,4,0,0,0,2
+Lukas Klostermann,RasenBallsport Leipzig,23,DF,457,0,0.3,-0.3,1,0.6,0.4,4,4,4,0,6,3,6
+Magomed Ozdoyev,Zenit St. Petersburg,26,MF,463,1,0.3,0.7,2,0.1,1.9,6,4,4,0,15,11,13
+Marcelo,Real Madrid,31,"DF,MF",267,0,0.2,-0.2,3,1.4,1.6,7,4,4,0,4,1,4
+Mattia De Sciglio,Juventus,26,DF,180,0,0,0,0,0,0,5,4,4,0,1,2,2
+Noa Lang,Ajax,20,MF,128,0,0.2,-0.2,0,0.1,-0.1,4,4,4,1,3,4,3
+Pablo Sarabia,Paris Saint-Germain,27,MF,265,2,0.7,1.3,1,1.6,-0.6,8,4,4,0,1,4,15
+Percy Tau,Club Brugge,25,FW,239,0,0.7,-0.7,1,0.6,0.4,4,4,4,0,2,2,3
+Pizzi,Benfica,29,"FW,MF",403,3,1.2,1.8,2,1.9,0.1,8,4,4,0,2,3,8
+Rasmus Nissen,Salzburg,22,DF,534,0,0,0,0,0.1,-0.1,11,4,4,1,7,11,15
+Sardar Azmoun,Zenit St. Petersburg,24,"FW,MF",466,2,3.1,-1.1,0,0.1,-0.1,8,4,4,1,3,1,8
+Sebastián Driussi,Zenit St. Petersburg,23,FW,363,0,0.5,-0.5,0,0.3,-0.3,7,4,4,0,3,10,9
+Simon Deli,Club Brugge,27,DF,540,0,0.2,-0.2,0,0.1,-0.1,4,4,4,0,12,5,4
+Tomáš Souček,Slavia Prague,24,MF,540,2,1.8,0.2,0,0.2,-0.2,8,4,4,0,14,12,13
+Dominik Szoboszlai,Salzburg,18,MF,393,1,0.8,0.2,0,0.6,-0.6,9,3,4,0,2,4,11
+Federico Bernardeschi,Juventus,25,FW,180,1,0.4,0.6,0,0.2,-0.2,6,3,4,0,0,1,1
+Kenny Tete,Lyon,23,DF,90,0,0,0,0,0.2,-0.2,7,3,4,0,1,1,1
+Kyle Walker,Manchester City,29,DF,173,0,0,0,0,0,0,5,3,4,0,4,3,1
+Luka Ivanušec,Dinamo Zagreb,20,MF,99,1,0.3,0.7,0,0,0,5,3,4,1,2,2,3
+Oleg Shatov,Zenit St. Petersburg,29,MF,235,0,0.2,-0.2,0,0.1,-0.1,7,3,4,0,3,3,5
+Renan Lodi,Atletico Madrid,21,DF,462,0,0.2,-0.2,1,0.3,0.7,9,3,4,2,12,13,6
+Robin Gosens,Atalanta,25,"DF,MF",393,1,0.8,0.2,0,0.3,-0.3,7,3,4,0,5,10,10
+Álvaro Odriozola,Real Madrid,23,DF,90,0,0,0,1,0,1,3,3,3,0,0,0,0
+Amer Gojak,Dinamo Zagreb,22,MF,171,0,0,0,0,0,0,3,3,3,0,0,8,5
+Benjamin Mendy,Manchester City,25,DF,348,0,0,0,1,1,0,4,3,3,1,5,6,3
+Clinton Mata,Club Brugge,26,MF,359,0,0,0,1,0,1,3,3,3,0,9,13,4
+Daley Blind,Ajax,29,"DF,MF",427,0,0.1,-0.1,0,0.1,-0.1,3,3,3,0,5,5,4
+David Hovorka,Slavia Prague,25,DF,270,0,0.1,-0.1,0,0,0,5,3,3,0,5,3,3
+David Silva,Manchester City,33,MF,110,0,0.5,-0.5,0,0.2,-0.2,3,3,3,0,3,0,0
+Donny van de Beek,Ajax,22,MF,448,2,1,1,1,1,0,5,3,3,0,10,8,15
+Dries Mertens,Napoli,32,"FW,MF",442,4,1.8,2.2,1,0.5,0.5,4,3,3,0,2,8,8
+Elif Elmas,Napoli,19,MF,92,0,0,0,0,0,0,6,3,3,0,1,0,1
+Érik Lamela,Tottenham,27,"FW,MF",113,1,1.5,-0.5,2,0.2,1.8,4,3,3,0,0,3,1
+Fabinho,Liverpool,25,DF,379,0,0.1,-0.1,1,0.4,0.6,4,3,3,0,6,13,11
+Federico Valverde,Real Madrid,21,MF,251,0,0.1,-0.1,0,0.6,-0.6,5,3,3,0,6,5,8
+Fernando Marçal,Lyon,30,DF,165,0,0.2,-0.2,0,0.1,-0.1,4,3,3,0,5,1,1
+Fikayo Tomori,Chelsea,21,DF,360,0,0.4,-0.4,1,0.4,0.6,3,3,3,0,6,9,3
+Gedson Fernandes,Benfica,20,MF,135,0,0.2,-0.2,0,0,0,4,3,3,0,1,3,4
+Hans Hateboer,Atalanta,25,DF,320,0,0.7,-0.7,1,0.5,0.5,6,3,3,0,2,3,4
+Héctor Herrera,Atletico Madrid,29,MF,206,1,0.2,0.8,0,0.4,-0.4,7,3,3,0,2,3,5
+Ivan Rakitić,Barcelona,31,MF,199,0,0.5,-0.5,0,0,0,4,3,3,0,7,1,4
+Joe Gomez,Liverpool,22,DF,301,0,0,0,0,0,0,3,3,3,0,12,9,1
+Julian Draxler,Paris Saint-Germain,25,"FW,MF",22,0,0.1,-0.1,0,0,0,3,3,3,0,0,0,0
+Kalidou Koulibaly,Napoli,28,DF,540,0,0.3,-0.3,0,0,0,4,3,3,0,9,8,11
+Koke,Atletico Madrid,27,MF,500,0,0,0,1,1.2,-0.2,4,3,3,0,4,8,11
+Kurt Zouma,Chelsea,24,DF,523,0,0.2,-0.2,1,0.7,0.3,5,3,3,0,6,5,0
+Leon Goretzka,Bayern Munich,24,MF,175,1,0.5,0.5,0,0.4,-0.4,4,3,3,0,7,2,2
+Lucas Hernández,Bayern Munich,23,DF,149,0,0,0,0,0,0,3,3,3,0,2,2,1
+Lucas Vázquez,Real Madrid,28,"FW,MF",87,0,0.1,-0.1,0,0.2,-0.2,8,3,3,0,0,0,3
+Luka Jović,Real Madrid,21,FW,105,0,0.4,-0.4,0,0.2,-0.2,3,3,3,0,0,2,1
+Luka Modrić,Real Madrid,33,MF,224,1,0.3,0.7,0,0.2,-0.2,6,3,3,0,3,4,4
+Manuel Akanji,Borussia Dortmund,24,MF,524,0,0.1,-0.1,0,0,0,4,3,3,0,9,2,5
+Marcão,Galatasaray,23,DF,540,0,0,0,0,0,0,3,3,3,0,10,8,3
+Matheus Cunha,RasenBallsport Leipzig,20,,80,0,1.5,-1.5,0,0,0,4,3,3,0,3,1,3
+Matías Vecino,Inter,27,"FW,MF",238,1,0.3,0.7,0,0.6,-0.6,3,3,3,0,6,7,2
+Miguel Ángel Guerrero,Olympiacos,29,FW,314,0,0.4,-0.4,0,0.5,-0.5,4,3,3,0,0,1,4
+Noussair Mazraoui,Ajax,21,DF,225,0,0.1,-0.1,0,0,0,7,3,3,0,5,9,1
+Odilon Kossonou,Club Brugge,18,DF,180,0,0,0,0,0.2,-0.2,5,3,3,0,1,1,2
+Radamel Falcao,Galatasaray,33,FW,208,0,0.2,-0.2,0,0.1,-0.1,4,3,3,1,0,3,2
+Rafa Silva,Benfica,26,MF,124,1,0.2,0.8,1,0.5,0.5,9,3,3,1,1,0,1
+Remo Freuler,Atalanta,27,MF,399,0,0.3,-0.3,0,0.1,-0.1,4,3,3,0,4,5,9
+Rúben Dias,Benfica,22,DF,540,0,0,0,0,0,0,3,3,3,0,6,7,1
+Ryan Donk,Galatasaray,33,DF,360,0,0,0,0,0.1,-0.1,3,3,3,0,6,5,4
+Sergiño Dest,Ajax,18,DF,405,0,0.1,-0.1,0,0.2,-0.2,8,3,3,0,3,7,7
+Stefan de Vrij,Inter,27,DF,540,0,0.3,-0.3,1,0.3,0.7,3,3,3,0,16,7,5
+Tetê,Shakhtar Donetsk,19,MF,155,1,1,0,0,0.5,-0.5,6,3,3,1,1,0,2
+Timothy Castagne,Atalanta,23,DF,385,1,1.2,-0.2,0,0.6,-0.6,4,3,3,0,1,2,7
+Trent Alexander-Arnold,Liverpool,20,"DF,MF",372,0,0.2,-0.2,1,1,0,7,3,3,1,6,4,3
+Vyacheslav Karavayev,Zenit St. Petersburg,24,DF,415,0,0.1,-0.1,0,0,0,3,3,3,0,4,3,8
+Antoine Griezmann,Barcelona,28,"FW,MF",441,1,1.1,-0.1,0,0.2,-0.2,6,2,5,1,4,5,5
+Jhon Lucumí,Genk,21,DF,540,1,0.2,0.8,0,0.1,-0.1,4,2,3,1,16,7,7
+Marcel Halstenberg,RasenBallsport Leipzig,27,DF,218,0,0,0,0,0.2,-0.2,4,2,3,0,3,0,4
+Piotr Zieliński,Napoli,25,MF,361,0,0.2,-0.2,0,0.3,-0.3,10,2,3,0,5,3,2
+Victor Osimhen,Lille,20,FW,450,2,2.3,-0.3,0,1.1,-1.1,7,2,3,1,2,1,1
+Yordan Osorio,Zenit St. Petersburg,25,DF,322,0,0.3,-0.3,0,0,0,3,2,3,0,8,7,2
+Zlatko Junuzović,Salzburg,31,"FW,MF",506,0,0.1,-0.1,3,1.4,1.6,3,2,3,0,11,6,18
+Aleksa Vukanović,FK Crvena Zvezda,27,FW,170,0,0.2,-0.2,0,0,0,4,2,2,0,4,1,6
+Aleksandr Erokhin,Zenit St. Petersburg,29,MF,166,0,0,0,0,0,0,3,2,2,0,1,0,3
+Andrea Masiello,Atalanta,33,DF,219,0,0,0,0,0,0,2,2,2,0,8,3,5
+Andreas Bouchalakis,Olympiacos,26,MF,484,0,0.4,-0.4,0,0.2,-0.2,3,2,2,0,10,7,6
+Anton Miranchuk,Lokomotiv Moscow,23,MF,90,0,0.6,-0.6,0,0.1,-0.1,5,2,2,1,0,3,1
+Benjamin André,Lille,28,"DF,MF",406,0,0.5,-0.5,2,1,1,4,2,2,0,12,14,15
+Berat Djimsiti,Atalanta,26,"DF,MF",360,0,0.3,-0.3,0,0,0,2,2,2,0,6,4,5
+Blaise Matuidi,Juventus,32,MF,340,1,0.7,0.3,0,0.1,-0.1,4,2,2,1,8,3,6
+Carlos,Benfica,24,MF,322,1,0.9,0.1,0,0.1,-0.1,3,2,2,0,0,2,4
+Carlos Cuesta,Genk,20,DF,360,0,0,0,0,0.3,-0.3,2,2,2,0,7,3,5
+César Azpilicueta,Chelsea,29,DF,540,2,1.2,0.8,0,0.6,-0.6,4,2,2,0,11,9,3
+Chiquinho,Benfica,24,MF,270,0,0.5,-0.5,0,0.1,-0.1,7,2,2,0,3,4,2
+Dani Carvajal,Real Madrid,27,DF,450,0,0.2,-0.2,1,1.4,-0.4,5,2,2,0,6,10,12
+Daniel Wass,Valencia,30,"DF,MF",540,1,0.2,0.8,0,0.3,-0.3,3,2,2,1,12,7,4
+Danilo D'Ambrosio,Inter,30,DF,184,0,0.6,-0.6,0,0,0,3,2,2,2,4,6,5
+David Neres,Ajax,22,FW,180,0,0.1,-0.1,1,0.1,0.9,7,2,2,0,2,3,1
+Dušan Jovančić,FK Crvena Zvezda,28,MF,179,0,0.1,-0.1,0,0.1,-0.1,4,2,2,0,4,6,4
+Éder Álvarez Balanta,Club Brugge,26,DF,284,0,0.1,-0.1,0,0.3,-0.3,3,2,2,0,6,9,11
+Éder Militão,Real Madrid,21,"DF,MF",180,0,0.1,-0.1,0,0,0,2,2,2,0,2,2,0
+Eric Maxim Choupo-Moting,Paris Saint-Germain,30,FW,101,0,0.1,-0.1,0,0.7,-0.7,5,2,2,0,1,2,3
+Fernandinho,Manchester City,34,MF,450,0,0.1,-0.1,0,0,0,2,2,2,0,9,8,2
+Gareth Bale,Real Madrid,30,"FW,MF",100,0,0.3,-0.3,0,0,0,3,2,2,0,4,0,4
+Gonçalo Guedes,Valencia,22,FW,90,0,0.1,-0.1,0,0,0,3,2,2,0,0,0,0
+Jander Ribeiro Santana,FK Crvena Zvezda,31,MF,143,0,0.1,-0.1,0,0,0,3,2,2,0,5,2,3
+Jean-Clair Todibo,Barcelona,19,MF,90,0,0,0,0,0,0,2,2,2,0,1,6,0
+Jere Uronen,Genk,25,DF,270,0,0.1,-0.1,0,0.1,-0.1,3,2,2,0,4,7,1
+Josef Hušbauer,Slavia Prague,29,MF,207,0,0.3,-0.3,0,0.2,-0.2,3,2,2,0,3,4,3
+Kévin Gameiro,Valencia,32,FW,212,0,0.3,-0.3,1,0.5,0.5,2,2,2,0,0,0,3
+Lazar Ranđelović,Olympiacos,21,MF,86,0,0,0,0,0,0,5,2,2,0,0,2,4
+Leonardo Bonucci,Juventus,32,DF,450,0,0.2,-0.2,0,0.1,-0.1,2,2,2,0,3,2,2
+Loïc Rémy,Lille,32,FW,207,1,1,0,0,0,0,5,2,2,0,0,1,2
+Lucas Alario,Bayer Leverkusen,26,FW,214,0,0.5,-0.5,0,0.1,-0.1,3,2,2,0,3,1,1
+Lucas Tousart,Lyon,22,MF,514,0,0.3,-0.3,1,0,1,3,2,2,0,5,13,14
+Maciej Rybus,Lokomotiv Moscow,29,MF,450,0,0,0,0,0.3,-0.3,5,2,2,0,14,3,6
+Manu Vallejo,Valencia,22,,72,0,0.1,-0.1,0,0,0,2,2,2,0,0,1,0
+Marcelo Saracchi,RasenBallsport Leipzig,21,DF,160,0,0,0,0,0.3,-0.3,4,2,2,0,2,2,2
+Mario Gavranović,Dinamo Zagreb,29,FW,83,0,0.3,-0.3,0,0.1,-0.1,3,2,2,0,0,0,2
+Mario Hermoso,Atletico Madrid,24,DF,351,0,0,0,0,0,0,3,2,2,0,9,1,4
+Matteo Politano,Inter,25,FW,61,0,0.2,-0.2,0,0.2,-0.2,5,2,2,0,1,1,0
+Maximilian Wöber,Salzburg,21,DF,540,0,0.2,-0.2,0,0.1,-0.1,2,2,2,0,18,9,4
+Milan Rodić,FK Crvena Zvezda,28,DF,442,0,0,0,0,0.1,-0.1,5,2,2,0,5,5,11
+Milan Škoda,Slavia Prague,33,"FW,MF",72,0,0.2,-0.2,1,0.4,0.6,2,2,2,0,0,1,0
+Miloš Degenek,FK Crvena Zvezda,25,DF,540,0,0.1,-0.1,0,0,0,2,2,2,0,13,5,6
+Moussa Wagué,Barcelona,20,DF,90,0,0.1,-0.1,0,0,0,3,2,2,0,1,4,1
+Nicolás Tagliafico,Ajax,26,DF,539,1,0.2,0.8,1,0.4,0.6,2,2,2,0,17,12,10
+Nikola Maksimović,Napoli,27,DF,180,0,0.1,-0.1,0,0,0,2,2,2,1,5,2,2
+Omar Elabdellaoui,Olympiacos,27,"DF,MF",461,0,0.1,-0.1,0,0.3,-0.3,2,2,2,0,5,6,2
+Panagiotis Retsos,Bayer Leverkusen,20,DF,99,0,0,0,0,0,0,3,2,2,0,2,5,4
+Paulinho,Bayer Leverkusen,19,FW,36,0,0.4,-0.4,0,0,0,3,2,2,0,0,0,1
+Perr Schuurs,Ajax,19,DF,108,0,0,0,0,0,0,2,2,2,0,2,1,1
+Petr Ševčík,Slavia Prague,25,MF,450,0,0.2,-0.2,0,0.5,-0.5,5,2,2,0,4,4,12
+Rúben Semedo,Olympiacos,25,"DF,MF",540,2,1.1,0.9,0,0,0,2,2,2,1,4,6,1
+Samir Handanović,Inter,35,GK,540,0,0,0,0,0,0,2,2,2,0,0,0,0
+Sébastien Dewaest,Genk,28,DF,360,0,0.2,-0.2,0,0,0,2,2,2,0,3,2,3
+Sergio Ramos,Real Madrid,33,DF,360,2,1.7,0.3,0,0,0,2,2,2,0,7,2,2
+Serhiy Bolbat,Shakhtar Donetsk,26,MF,246,0,0,0,0,0,0,6,2,2,0,4,5,5
+Sofiane Feghouli,Galatasaray,29,MF,343,0,0.2,-0.2,0,0.1,-0.1,5,2,2,0,3,1,5
+Taras Stepanenko,Shakhtar Donetsk,29,MF,540,0,0.2,-0.2,0,0,0,3,2,2,0,9,9,14
+Viktor Kovalenko,Shakhtar Donetsk,23,MF,338,0,0.2,-0.2,1,0.4,0.6,3,2,2,0,2,3,4
+Yassine Meriah,Olympiacos,26,MF,540,0,0.4,-0.4,0,0,0,2,2,2,0,9,2,1
+Benjamin Pavard,Bayern Munich,23,DF,540,0,0.5,-0.5,2,0.7,1.3,2,1,2,0,11,7,3
+Daniil Kulikov,Lokomotiv Moscow,21,MF,25,0,0,0,0,0,0,2,1,2,0,1,0,1
+Danilo,Juventus,28,"DF,MF",360,0,0,0,0,0,0,2,1,2,0,8,4,4
+Emerson Palmieri,Chelsea,24,DF,108,0,0.1,-0.1,1,0.2,0.8,4,1,2,0,1,2,1
+Franco Cervi,Benfica,25,MF,398,1,1.4,-0.4,1,0.3,0.7,3,1,2,0,3,6,8
+Gerard Piqué,Barcelona,32,DF,360,0,0.3,-0.3,0,0.3,-0.3,2,1,2,0,6,5,2
+José Cañas,FK Crvena Zvezda,32,MF,314,0,0,0,0,0,0,3,1,2,0,4,4,13
+Julian Baumgartlinger,Bayer Leverkusen,31,"DF,MF",345,0,0.1,-0.1,0,0,0,2,1,2,0,3,9,8
+Layvin Kurzawa,Paris Saint-Germain,26,DF,90,0,0.1,-0.1,0,0,0,2,1,2,0,2,2,1
+Marko Gobeljić,FK Crvena Zvezda,26,MF,495,0,0.1,-0.1,0,0.3,-0.3,2,1,2,0,7,9,7
+Mathieu Valbuena,Olympiacos,34,MF,104,1,0.8,0.2,1,0.3,0.7,2,1,2,0,1,0,3
+Merih Demiral,Juventus,21,DF,90,0,0,0,0,0,0,2,1,2,0,1,4,0
+Michy Batshuayi,Chelsea,25,FW,85,1,1.6,-0.6,0,0.1,-0.1,4,1,2,0,0,0,0
+Miralem Pjanić,Juventus,29,MF,537,0,0.3,-0.3,0,0.7,-0.7,3,1,2,0,15,13,10
+Mirko Ivanić,FK Crvena Zvezda,25,MF,104,0,0.1,-0.1,0,0,0,3,1,2,0,2,1,7
+Njegoš Petrović,FK Crvena Zvezda,20,MF,301,0,0,0,0,0,0,3,1,2,0,4,5,8
+Roberto Gagliardini,Inter,25,MF,218,0,0,0,0,0,0,2,1,2,0,2,6,3
+Santiago Arias,Atletico Madrid,27,DF,180,0,0,0,0,0.2,-0.2,3,1,2,0,3,3,0
+Sergio Busquets,Barcelona,31,MF,349,0,0,0,0,0,0,2,1,2,0,8,7,7
+Stanislav Tecl,Slavia Prague,28,FW,137,0,0.3,-0.3,0,0.1,-0.1,4,1,2,0,0,1,2
+Vladimír Coufal,Slavia Prague,26,DF,540,0,0,0,0,0.2,-0.2,3,1,2,0,6,8,6
+Aaron Ramsey,Juventus,28,MF,142,1,0.9,0.1,0,0.1,-0.1,2,1,1,0,0,0,3
+Adem Büyük,Galatasaray,31,FW,92,1,0.4,0.6,0,0,0,1,1,1,0,0,0,2
+Aleksandr Kolomeytsev,Lokomotiv Moscow,30,MF,19,0,0,0,0,0,0,1,1,1,0,0,0,1
+Alexis Sánchez,Inter,30,"FW,MF",66,0,0.3,-0.3,1,0.4,0.6,2,1,1,0,2,1,1
+Andriy Pyatov,Shakhtar Donetsk,35,GK,540,0,0,0,0,0,0,1,1,1,0,0,0,0
+Ansu Fati,Barcelona,16,FW,89,1,0.1,0.9,0,0.6,-0.6,4,1,1,0,0,0,3
+Arkadiusz Milik,Napoli,25,FW,167,3,3.2,-0.2,0,0,0,1,1,1,0,0,1,1
+Arturo Vidal,Barcelona,32,MF,241,0,0.2,-0.2,1,0.4,0.6,2,1,1,1,0,7,2
+Ben Davies,Tottenham,26,DF,180,0,0,0,1,0.3,0.7,1,1,1,0,2,0,2
+Borja Valero,Inter,34,MF,153,0,0.1,-0.1,0,0.6,-0.6,2,1,1,0,2,2,3
+Caio Lucas Fernandes,Benfica,25,MF,31,0,0.1,-0.1,0,0,0,6,1,1,0,0,1,0
+Carles Aleñá,Barcelona,21,MF,90,0,0,0,0,0.2,-0.2,1,1,1,0,1,3,2
+Carles Pérez,Barcelona,21,,85,1,0.4,0.6,0,0,0,2,1,1,0,0,1,0
+Christian Eriksen,Tottenham,27,"DF,MF",295,1,0.7,0.3,1,1.6,-0.6,4,1,1,0,0,3,7
+Clément Lenglet,Barcelona,24,DF,540,0,0.2,-0.2,0,0,0,2,1,1,0,8,2,6
+Daley Sinkgraven,Bayer Leverkusen,24,MF,100,0,0,0,0,0,0,1,1,1,0,1,3,0
+David Okereke,Club Brugge,21,,173,0,1.3,-1.3,0,0,0,6,1,1,0,0,0,2
+Davinson Sánchez,Tottenham,23,DF,360,0,0.3,-0.3,0,0.1,-0.1,3,1,1,0,4,6,3
+Denis Cheryshev,Valencia,28,"FW,MF",221,1,0.4,0.6,0,0,0,2,1,1,0,1,0,7
+Diego Costa,Atletico Madrid,30,FW,318,0,1,-1,1,1,0,2,1,1,0,0,2,1
+Diego Demme,RasenBallsport Leipzig,27,"DF,MF",364,1,0.4,0.6,0,0,0,3,1,1,0,5,10,7
+Dino Perić,Dinamo Zagreb,25,DF,450,0,0,0,0,0,0,1,1,1,0,9,10,3
+Duván Zapata,Atalanta,28,FW,180,1,1.6,-0.6,0,0.2,-0.2,4,1,1,0,0,0,1
+Eric Dier,Tottenham,25,"DF,MF",222,0,0.4,-0.4,0,0,0,2,1,1,0,2,1,5
+Fernando Llorente,Napoli,34,FW,86,1,0.6,0.4,0,0.1,-0.1,1,1,1,0,1,1,1
+Fernando Muslera,Galatasaray,33,GK,540,0,0,0,0,0,0,1,1,1,0,1,0,1
+Florin Andone,Galatasaray,26,FW,161,0,0.6,-0.6,0,0,0,2,1,1,1,0,0,1
+Gabriel Dos Santos,Lille,21,DF,540,0,0.1,-0.1,0,0,0,2,1,1,0,14,9,4
+Gabriel Paulista,Valencia,28,DF,539,0,0.2,-0.2,0,0,0,1,1,1,0,12,5,4
+Geoffrey Kondogbia,Valencia,26,MF,225,1,0,1,0,0,0,2,1,1,0,9,4,2
+Gianluca Gaetano,Napoli,19,MF,18,0,0,0,0,0,0,2,1,1,1,0,0,0
+Giovani Lo Celso,Tottenham,23,MF,162,1,0.5,0.5,0,0.4,-0.4,3,1,1,0,2,3,6
+Ivan Perišić,Bayern Munich,30,MF,207,1,1,0,3,2,1,7,1,1,0,3,1,4
+James Rodríguez,Real Madrid,28,"FW,MF",81,0,0.1,-0.1,0,0,0,2,1,1,0,0,0,4
+Jérémy Pied,Lille,30,"FW,MF",90,0,0,0,0,0,0,1,1,1,0,2,2,4
+Jerome Onguene,Salzburg,21,DF,360,0,0.3,-0.3,0,0,0,1,1,1,0,4,7,4
+Jordi Alba,Barcelona,30,DF,175,0,0,0,0,0.6,-0.6,3,1,1,0,2,1,1
+José Luis Palomino,Atalanta,29,DF,360,0,0.1,-0.1,0,0,0,1,1,1,0,11,14,7
+José Sá,Olympiacos,26,GK,540,0,0,0,0,0,0,1,1,1,0,1,0,0
+Julian Weigl,Borussia Dortmund,23,MF,341,0,0,0,0,0,0,1,1,1,0,3,5,9
+Junior Firpo,Barcelona,22,DF,180,0,0,0,0,0,0,1,1,1,0,3,2,2
+Jurgen Ekkelenkamp,Ajax,19,MF,2,0,0,0,0,0,0,1,1,1,0,0,1,0
+Kevin Kampl,RasenBallsport Leipzig,28,MF,135,0,0,0,0,0,0,3,1,1,0,4,1,3
+Keylor Navas,Paris Saint-Germain,32,GK,450,0,0,0,0,0,0,1,1,1,0,0,0,0
+Kwadwo Asamoah,Inter,30,MF,260,0,0,0,0,0.1,-0.1,3,1,1,0,1,1,4
+Lars Bender,Bayer Leverkusen,30,MF,270,0,0,0,0,0.3,-0.3,1,1,1,0,5,9,7
+Leonardo Balerdi,Borussia Dortmund,20,DF,7,0,0,0,0,0,0,1,1,1,0,0,0,0
+Lovro Majer,Dinamo Zagreb,21,MF,9,0,0,0,0,0,0,1,1,1,0,0,0,0
+Manuel Neuer,Bayern Munich,33,GK,540,0,0,0,0,0,0,1,1,1,0,0,0,1
+Marcos Antônio,Shakhtar Donetsk,19,MF,25,0,0,0,0,0,0,1,1,1,0,2,1,1
+Marquinhos,Paris Saint-Germain,25,DF,520,0,0.1,-0.1,0,0.2,-0.2,2,1,1,0,10,8,6
+Marten de Roon,Atalanta,28,MF,540,0,0.1,-0.1,1,0.8,0.2,1,1,1,0,13,14,18
+Mats Hummels,Borussia Dortmund,30,DF,540,0,0.1,-0.1,0,0.1,-0.1,1,1,1,0,27,10,6
+Mats Rits,Club Brugge,26,MF,397,0,0.2,-0.2,0,0.1,-0.1,2,1,1,0,3,7,12
+Maxi Gómez,Valencia,22,FW,347,0,0.5,-0.5,1,0.1,0.9,4,1,1,0,0,0,0
+Maximiliano Lovera,Olympiacos,20,FW,101,0,0.1,-0.1,1,0,1,3,1,1,0,0,0,1
+Milan Škriniar,Inter,24,"DF,MF",540,0,0,0,0,0.1,-0.1,3,1,1,0,13,11,4
+Miloš Vulić,FK Crvena Zvezda,22,MF,182,1,0.2,0.8,0,0.1,-0.1,2,1,1,0,4,1,5
+Musa Barrow,Atalanta,20,FW,2,0,0,0,0,0,0,1,1,1,0,0,0,0
+Mykola Matviyenko,Shakhtar Donetsk,23,DF,536,0,0.3,-0.3,0,0.2,-0.2,1,1,1,0,16,6,8
+Nacho,Real Madrid,29,DF,45,0,0,0,0,0,0,3,1,1,0,1,1,0
+Nemanja Milunović,FK Crvena Zvezda,30,DF,540,1,0.3,0.7,0,0,0,1,1,1,0,11,12,7
+Nianzou Kouassi,Paris Saint-Germain,17,DF,75,0,0,0,0,0,0,1,1,1,0,2,2,1
+Oliver Skipp,Tottenham,18,MF,29,0,0,0,0,0,0,1,1,1,0,1,1,0
+Olivier Giroud,Chelsea,32,FW,17,0,0.1,-0.1,0,0,0,1,1,1,0,0,0,0
+Ondřej Kolář,Slavia Prague,24,GK,540,0,0,0,0,0,0,2,1,1,0,0,0,2
+Paco Alcácer,Borussia Dortmund,25,FW,113,0,0.6,-0.6,1,0.5,0.5,1,1,1,0,4,1,1
+Rafael,Lyon,29,"DF,MF",73,0,0,0,0,0,0,4,1,1,0,1,3,1
+Raphaël Varane,Real Madrid,26,"DF,MF",540,0,0.7,-0.7,0,0,0,1,1,1,0,7,7,6
+Roger Ibanez,Atalanta,20,MF,19,0,0,0,0,0,0,1,1,1,0,0,0,0
+Ross Barkley,Chelsea,25,MF,10,0,0.8,-0.8,0,0,0,1,1,1,0,0,1,0
+Ruud Vormer,Club Brugge,31,MF,263,0,0,0,0,1.1,-1.1,1,1,1,0,2,5,5
+Selçuk İnan,Galatasaray,34,MF,59,0,0,0,0,0,0,1,1,1,0,2,0,0
+Siebe Schrijvers,Club Brugge,23,FW,76,0,0.2,-0.2,0,0.1,-0.1,4,1,1,0,3,2,2
+Thomas Delaney,Borussia Dortmund,27,MF,245,0,0,0,0,0.1,-0.1,1,1,1,0,3,4,1
+Thomas Meunier,Paris Saint-Germain,27,DF,360,1,0.8,0.2,0,0.4,-0.4,2,1,1,0,5,8,6
+Thomas Müller,Bayern Munich,29,"FW,MF",259,2,1.5,0.5,2,1.1,0.9,1,1,1,0,1,4,5
+Tiago Djaló,Lille,19,DF,267,0,0,0,0,0,0,3,1,1,0,2,5,3
+Vasilis Torosidis,Olympiacos,34,"DF,MF",90,0,0,0,0,0,0,1,1,1,0,0,0,1
+Vinicius Júnior,Real Madrid,19,MF,118,1,0.6,0.4,0,0.6,-0.6,6,1,1,0,0,4,1
+Virgil van Dijk,Liverpool,28,DF,540,0,0.4,-0.4,0,0.2,-0.2,3,1,1,0,8,6,1
+Vladislav Ignatyev,Lokomotiv Moscow,32,"FW,MF",440,0,0,0,0,0.1,-0.1,5,1,1,0,5,11,15
+Willi Orban,RasenBallsport Leipzig,26,DF,270,0,0,0,0,0,0,1,1,1,0,2,7,4
+Xeka,Lille,24,MF,118,0,0,0,0,0,0,1,1,1,0,3,2,4
+Yassine Benzia,Olympiacos,24,FW,77,0,0.1,-0.1,0,0,0,1,1,1,0,0,4,3
+Brahim Díaz,Real Madrid,19,MF,17,0,0,0,0,0,0,3,0,2,1,0,1,0
+Antoine Bernede,Salzburg,20,MF,90,0,0,0,0,0.1,-0.1,1,0,1,0,0,2,5
+Carlos Soler,Valencia,22,MF,213,1,0.3,0.7,0,0,0,1,0,1,0,0,3,6
+Edson Álvarez,Ajax,21,DF,377,1,0.5,0.5,0,0.3,-0.3,1,0,1,0,6,7,7
+Jordan Henderson,Liverpool,29,MF,329,0,0.1,-0.1,0,0.5,-0.5,4,0,1,1,6,4,3
+Mbaye Diagne,Club Brugge,27,FW,40,0,0.8,-0.8,0,0,0,2,0,1,1,0,0,1
+Mick van Buren,Slavia Prague,26,FW,45,0,0.1,-0.1,0,0.2,-0.2,2,0,1,0,0,0,0
+Nico Schulz,Borussia Dortmund,26,"DF,MF",225,0,0.7,-0.7,0,0,0,1,0,1,0,1,1,6
+Nikola Moro,Dinamo Zagreb,21,MF,416,0,0.1,-0.1,0,0,0,2,0,1,1,11,10,9
+Sebastiano Luperto,Napoli,22,DF,135,0,0,0,0,0.1,-0.1,2,0,1,0,4,0,1
+Steven Nzonzi,Galatasaray,30,MF,387,0,0.2,-0.2,0,0,0,2,0,1,1,2,8,2
+Abdou Diallo,Paris Saint-Germain,23,DF,109,0,0,0,0,0,0,0,0,0,0,0,1,1
+Abdulla Yusuf Helal,Slavia Prague,26,FW,36,0,0.2,-0.2,0,0,0,1,0,0,0,0,2,1
+Adam Lallana,Liverpool,31,"FW,MF",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Adama Soumaoro,Lille,27,DF,89,0,0,0,0,0,0,0,0,0,0,4,0,0
+Ademola Lookman,RasenBallsport Leipzig,21,FW,69,0,0,0,0,0.2,-0.2,4,0,0,0,0,0,1
+Adrián,Liverpool,32,GK,180,0,0,0,0,0,0,0,0,0,0,0,0,0
+Adrián de la Fuente,Real Madrid,20,DF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Albert Vallci,Salzburg,24,DF,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aleksandar Dragović,Bayer Leverkusen,28,"DF,MF",92,0,0,0,0,0,0,0,0,0,0,2,2,0
+Aleksandr Vasyutin,Zenit St. Petersburg,24,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aleksei Sutormin,Zenit St. Petersburg,25,FW,25,0,0,0,0,0,0,0,0,0,0,1,1,0
+Alessandro Bastoni,Inter,20,DF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alex Meret,Napoli,22,GK,540,0,0,0,0,0,0,0,0,0,0,1,0,0
+Alfie Whiteman,Tottenham,20,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alisson,Liverpool,26,GK,360,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alphonse Areola,Real Madrid,26,GK,135,0,0,0,0,0,0,0,0,0,0,0,0,0
+Amad Traoré,Atalanta,17,FW,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Amin Younes,Napoli,25,"FW,MF",5,0,0,0,0,0,0,0,0,0,0,0,0,0
+Amine Gouiri,Lyon,19,FW,7,0,0,0,0,0,0,0,0,0,0,0,0,0
+André Almeida,Benfica,28,"DF,MF",90,0,0,0,0,0,0,4,0,0,0,1,0,0
+André Onana,Ajax,23,GK,540,0,0,0,0,0,0,0,0,0,0,1,0,0
+André Ramalho,Salzburg,27,DF,180,0,0.1,-0.1,0,0,0,0,0,0,0,5,0,1
+Andreas Christensen,Chelsea,23,DF,180,0,0.1,-0.1,0,0,0,0,0,0,0,2,1,0
+Andreas Samaris,Benfica,30,MF,9,0,0.1,-0.1,0,0,0,0,0,0,0,0,2,0
+Andrey Lunyov,Zenit St. Petersburg,27,GK,180,0,0,0,0,0,0,0,0,0,0,0,0,0
+Angeliño,Manchester City,22,DF,90,0,0,0,0,0.2,-0.2,1,0,0,0,1,3,1
+Anthony Lopes,Lyon,28,GK,540,0,0,0,0,0,0,0,0,0,0,0,0,0
+Anton Kochenkov,Lokomotiv Moscow,32,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0
+Antonio Adán,Atletico Madrid,32,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Antonio Rüdiger,Chelsea,26,DF,90,0,0,0,0,0,0,0,0,0,0,1,0,0
+Avraam Papadopoulos,Olympiacos,34,"DF,MF",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Benedikt Höwedes,Lokomotiv Moscow,31,DF,540,0,0,0,0,0,0,0,0,0,0,14,6,4
+Billy Gilmour,Chelsea,18,MF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bobby Allain,Olympiacos,27,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bohdan Butko,Shakhtar Donetsk,28,DF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brandon Austin,Tottenham,20,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Branislav Ivanović,Zenit St. Petersburg,35,DF,520,0,0.2,-0.2,0,0,0,0,0,0,0,6,3,2
+Brian Idowu,Lokomotiv Moscow,27,DF,237,0,0.1,-0.1,0,0,0,2,0,0,0,4,6,4
+Bruno Gaspar,Olympiacos,26,DF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bruno Varela,Ajax,24,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bryan Heynen,Genk,22,MF,265,0,0.3,-0.3,1,0.5,0.5,1,0,0,0,5,7,8
+Caoimhin Kelleher,Liverpool,20,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carlos Coronel,Salzburg,22,GK,237,0,0,0,0,0,0,0,0,0,0,0,0,0
+Christian Luyindama,Galatasaray,25,DF,360,0,0.1,-0.1,0,0,0,1,0,0,0,6,13,12
+Cican Stankovic,Salzburg,26,GK,303,0,0,0,0,0,0,0,0,0,0,0,0,1
+Ciprian Tătărușanu,Lyon,33,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Claudio Bravo,Manchester City,36,GK,125,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colin Dagba,Paris Saint-Germain,20,DF,90,0,0,0,0,0.1,-0.1,1,0,0,0,2,0,1
+Cristian,Valencia,21,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cristiano Biraghi,Inter,26,DF,221,0,0.1,-0.1,0,0,0,0,0,0,0,3,2,0
+Curtis Jones,Liverpool,18,MF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Daler Kuzyaev,Zenit St. Petersburg,26,MF,136,0,0.1,-0.1,0,0.6,-0.6,0,0,0,0,5,1,10
+Damian Kądzior,Dinamo Zagreb,27,MF,59,0,0,0,1,0.1,0.9,0,0,0,0,2,0,3
+Dan-Axel Zagadou,Borussia Dortmund,20,DF,104,0,0,0,0,0,0,0,0,0,0,2,2,2
+Dani Morer,Barcelona,21,,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Daniele Padelli,Inter,33,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Daniele Rugani,Juventus,25,DF,180,0,0,0,0,0,0,1,0,0,0,1,3,3
+Danijel Zagorac,Dinamo Zagreb,32,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Danylo Sikan,Shakhtar Donetsk,18,FW,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+David Alaba,Bayern Munich,27,"DF,MF",225,0,0,0,0,1.1,-1.1,0,0,0,0,0,2,1
+David Ospina,Napoli,30,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+David Tavares,Benfica,20,FW,23,0,0,0,0,0,0,1,0,0,0,0,0,0
+Davit Khocholava,Shakhtar Donetsk,26,DF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dejan Lovren,Liverpool,30,DF,233,1,0.1,0.9,0,0.3,-0.3,0,0,0,0,1,3,0
+Dentinho,Shakhtar Donetsk,30,FW,17,0,0,0,0,0,0,0,0,0,0,0,0,1
+Dieumerci Ndongala,Genk,28,"FW,MF",118,0,0.1,-0.1,2,0,2,5,0,0,1,0,1,1
+Dion Cools,Club Brugge,23,DF,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dmitri Zhivoglyadov,Lokomotiv Moscow,25,DF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dominik Livaković,Dinamo Zagreb,24,GK,540,0,0,0,0,0,0,0,0,0,0,0,0,1
+Dries Wouters,Genk,22,DF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ederson,Manchester City,25,GK,405,0,0,0,0,0,0,0,0,0,0,0,0,0
+Edinson Cavani,Paris Saint-Germain,32,"FW,MF",40,1,0.8,0.2,0,0,0,1,0,0,0,0,1,1
+Eliaquim Mangala,Valencia,28,DF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Elseid Hysaj,Napoli,25,DF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Emanuel Mammana,Zenit St. Petersburg,23,DF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Emin Bayram,Galatasaray,16,DF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Emir Dilaver,Dinamo Zagreb,28,"DF,MF",540,0,0.1,-0.1,0,0,0,0,0,0,0,12,6,9
+Erencan Yardimci,Galatasaray,17,FW,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eric García,Manchester City,18,DF,90,0,0,0,0,0,0,0,0,0,0,0,1,1
+Eric Oelschlägel,Borussia Dortmund,23,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Esquerdo,Valencia,20,MF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ethan Ampadu,RasenBallsport Leipzig,18,MF,91,0,0,0,0,0,0,0,0,0,0,0,0,2
+Ethan Horvath,Club Brugge,24,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ezequiel Garay,Valencia,32,DF,363,0,0,0,0,0,0,0,0,0,0,4,4,6
+Faouzi Ghoulam,Napoli,28,DF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Federico Dimarco,Inter,21,DF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Federico Ricca,Club Brugge,24,"DF,MF",270,0,0.1,-0.1,0,0.4,-0.4,0,0,0,0,3,4,1
+Felipe,Atletico Madrid,30,DF,450,1,0.2,0.8,0,0,0,0,0,0,0,11,5,5
+Florentino Luís,Benfica,19,MF,180,0,0,0,0,0,0,0,0,0,0,2,10,10
+François Moubandje,Dinamo Zagreb,29,DF,90,0,0,0,0,0,0,0,0,0,0,1,2,1
+Gaëtan Coucke,Genk,20,GK,450,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gianluigi Buffon,Juventus,41,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0
+Giorgos Xenitidis,Olympiacos,19,MF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gökay Güney,Galatasaray,20,MF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Guilherme Arana,Atalanta,22,DF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Guilherme Marinato,Lokomotiv Moscow,33,GK,450,0,0,0,0,0,0,0,0,0,0,1,0,0
+Hugo Lloris,Tottenham,32,GK,180,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ibrahim Traoré,Slavia Prague,30,MF,167,0,0,0,0,0,0,1,0,0,0,2,1,5
+Ibrahima Konaté,RasenBallsport Leipzig,20,DF,113,0,0,0,0,0,0,0,0,0,0,2,2,1
+Igor Smolnikov,Zenit St. Petersburg,30,"DF,MF",138,0,0,0,0,0,0,0,0,0,0,1,2,1
+Ilya Vorobyov,Zenit St. Petersburg,20,FW,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Işık Kaan Arslan,Galatasaray,18,DF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ivan Šaponjić,Atletico Madrid,21,FW,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ivan Zlobin,Benfica,22,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ivo Pinto,Dinamo Zagreb,29,DF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Iyayi Atiemwen,Dinamo Zagreb,23,MF,6,0,0,0,0,0,0,0,0,0,0,0,0,1
+Izet Hajrović,Dinamo Zagreb,27,MF,9,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jacob Bruun Larsen,Borussia Dortmund,20,MF,19,0,0,0,0,0,0,1,0,0,0,0,0,0
+Jakub Markovič,Slavia Prague,18,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jakub Piotrowski,Genk,21,MF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jan Oblak,Atletico Madrid,26,GK,540,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jan Vertonghen,Tottenham,32,DF,253,0,0,0,0,0,0,0,0,0,0,1,2,3
+Japhet Tanganga,Tottenham,20,DF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jardel,Benfica,33,DF,164,0,0,0,0,0,0,0,0,0,0,3,1,2
+Jasper Cillessen,Valencia,30,GK,450,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jaume Costa,Valencia,31,DF,247,0,0.1,-0.1,0,0.1,-0.1,1,0,0,0,4,6,3
+Jaume Doménech,Valencia,28,GK,90,0,0,0,0,0,0,0,0,0,0,1,0,0
+Javi Martínez,Bayern Munich,30,"DF,MF",333,0,0.3,-0.3,0,0,0,0,0,0,0,5,4,2
+Jean Lucas,Lyon,21,MF,3,0,0.4,-0.4,0,0,0,0,0,0,0,0,1,0
+Jelle Vossen,Club Brugge,30,FW,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jérôme Boateng,Bayern Munich,30,DF,283,0,0,0,0,0,0,1,0,0,0,5,2,0
+Joachim Andersen,Lyon,23,DF,353,1,0.2,0.8,0,0,0,1,0,0,0,6,2,3
+Joël Matip,Liverpool,27,"DF,MF",90,0,0,0,0,0,0,1,0,0,0,1,0,2
+Joel Pohjanpalo,Bayer Leverkusen,24,FW,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Joël Veltman,Ajax,27,DF,427,0,0,0,0,0,0,2,0,0,0,11,7,3
+John Stones,Manchester City,25,DF,49,0,0.2,-0.2,0,0,0,0,0,0,0,2,0,1
+Jonas Hupe,Borussia Dortmund,19,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jonathan Tah,Bayer Leverkusen,23,DF,450,0,0,0,0,0.1,-0.1,0,0,0,0,7,4,2
+Jorginho,Chelsea,27,MF,522,2,1.7,0.3,0,0.5,-0.5,2,0,0,0,11,7,15
+José Callejón,Napoli,32,"FW,MF",429,1,1.6,-0.6,1,1.6,-0.6,2,0,0,0,2,3,5
+José Fonte,Lille,35,DF,360,0,0,0,0,0.1,-0.1,0,0,0,0,3,2,1
+José María Giménez,Atletico Madrid,24,DF,195,0,0.5,-0.5,1,0.6,0.4,0,0,0,0,0,0,3
+Joshua Zirkzee,Bayern Munich,18,FW,4,0,0,0,0,0,0,0,0,0,0,0,0,1
+Jota,Benfica,20,FW,67,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jurrien Timber,Ajax,18,DF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kepa Arrizabalaga,Chelsea,24,GK,540,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kik Pierie,Ajax,19,DF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Klaas-Jan Huntelaar,Ajax,35,FW,33,0,0.1,-0.1,0,0,0,0,0,0,0,0,0,0
+Kostas Manolas,Napoli,28,DF,360,0,0.2,-0.2,0,0,0,0,0,0,0,5,0,2
+Laco Takács,Slavia Prague,23,DF,89,0,0.2,-0.2,0,0,0,0,0,0,0,5,3,2
+Lars Lukas Mai,Bayern Munich,19,DF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lassina Franck Traoré,Ajax,18,FW,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Leandro Paredes,Paris Saint-Germain,25,MF,115,0,0,0,0,0,0,0,0,0,0,2,6,4
+Lee Kangin,Valencia,18,MF,124,0,0.1,-0.1,0,0,0,0,0,0,0,0,2,1
+Leon Musayev,Zenit St. Petersburg,20,MF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Leonardo César Jardim,Lille,24,GK,18,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ljubomir Fejsa,Benfica,30,MF,150,0,0,0,0,0,0,0,0,0,0,4,3,0
+Loïs Openda,Club Brugge,19,FW,137,0,0.4,-0.4,0,0,0,0,0,0,0,1,2,2
+Luka Đorđević,Lokomotiv Moscow,25,FW,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lukáš Hrádecký,Bayer Leverkusen,29,GK,540,0,0,0,0,0,0,0,0,0,0,1,0,0
+Lukáš Provod,Slavia Prague,22,MF,13,0,0,0,0,0,0,1,0,0,0,0,0,0
+Łukasz Piszczek,Borussia Dortmund,34,"DF,MF",181,0,0,0,0,0.1,-0.1,0,0,0,0,5,6,4
+Maarten Vandevoordt,Genk,17,GK,90,0,0,0,0,0,0,0,0,0,0,1,0,0
+Mahmoud Dahoud,Borussia Dortmund,23,MF,28,0,0,0,0,0,0,1,0,0,0,1,1,1
+Majeed Ashimeru,Salzburg,21,MF,63,0,0,0,0,0,0,0,0,0,0,0,2,2
+Manolo Portanova,Juventus,19,MF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marc Guéhi,Chelsea,19,,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marc-André ter Stegen,Barcelona,27,GK,450,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marcel Schmelzer,Borussia Dortmund,31,DF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marcelo,Lyon,32,DF,363,0,0.2,-0.2,0,0,0,0,0,0,0,2,1,1
+Marco Sportiello,Atalanta,27,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marcos Llorente,Atletico Madrid,24,MF,9,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marin Leovac,Dinamo Zagreb,30,DF,450,1,0.8,0.2,1,0.4,0.6,2,0,0,0,7,7,11
+Marin Pongračić,Salzburg,21,DF,45,0,0,0,0,0,0,0,0,0,0,1,1,0
+Mario Götze,Borussia Dortmund,27,MF,69,0,0.3,-0.3,1,0.5,0.5,0,0,0,0,0,1,0
+Mário Rui,Napoli,28,"DF,MF",348,0,0,0,0,0.3,-0.3,2,0,0,0,8,6,5
+Mario Šitum,Dinamo Zagreb,27,"FW,MF",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marko Gjira,Dinamo Zagreb,20,DF,59,0,0,0,0,0,0,0,0,0,0,1,0,0
+Marquinhos Cipriano,Shakhtar Donetsk,20,FW,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marwin Hitz,Borussia Dortmund,31,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Masaya Okugawa,Salzburg,23,FW,72,0,0.1,-0.1,0,0,0,1,0,0,0,0,2,5
+Matej Mitrović,Club Brugge,25,DF,90,0,0.1,-0.1,0,0,0,0,0,0,0,0,0,0
+Mathis Cherki,Lyon,15,MF,15,0,0,0,0,0,0,0,0,0,0,0,0,0
+Matías Kranevitter,Zenit St. Petersburg,26,MF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Matthijs de Ligt,Juventus,19,DF,360,0,0.2,-0.2,0,0,0,0,0,0,0,1,2,0
+Mauro Icardi,Paris Saint-Germain,26,FW,401,5,4.1,0.9,0,0.1,-0.1,1,0,0,0,0,1,1
+Maxence Caqueret,Lyon,19,MF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Michal Frydrych,Slavia Prague,29,DF,174,0,0.1,-0.1,0,0,0,0,0,0,0,5,1,6
+Michel Vorm,Tottenham,35,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mickaël Cuisance,Bayern Munich,19,MF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mike Maignan,Lille,23,GK,522,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mikhail Kerzhakov,Zenit St. Petersburg,32,GK,360,0,0,0,0,0,0,0,0,0,0,0,0,0
+Milan Borjan,FK Crvena Zvezda,31,GK,540,0,0,0,0,0,0,0,0,0,0,0,0,0
+Milan Pavkov,FK Crvena Zvezda,25,FW,188,0,0.4,-0.4,0,0,0,2,0,0,0,0,0,0
+Mouctar Diakhaby,Valencia,22,DF,173,0,0,0,0,0.1,-0.1,0,0,0,0,3,2,0
+Murilo Cerqueira,Lokomotiv Moscow,22,DF,369,0,0,0,0,0,0,0,0,0,0,15,7,16
+Neto,Barcelona,30,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,1
+Neto Borges,Genk,22,DF,8,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nicolás Otamendi,Manchester City,31,DF,465,0,0.3,-0.3,0,0,0,0,0,0,0,5,11,5
+Nikita Medvedev,Lokomotiv Moscow,24,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Niklas Lomb,Bayer Leverkusen,26,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Niklas Süle,Bayern Munich,23,DF,180,0,0,0,0,0,0,0,0,0,0,2,2,0
+Nuno Tavares,Benfica,19,DF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Odisseas Vlachodimos,Benfica,25,GK,540,0,0,0,0,0,0,0,0,0,0,2,0,1
+Okan Kocuk,Galatasaray,24,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oleksandr Zinchenko,Manchester City,22,MF,114,0,0,0,0,0,0,0,0,0,0,3,2,3
+Oleksiy Shevchenko,Shakhtar Donetsk,27,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ondřej Kúdela,Slavia Prague,32,"DF,MF",540,0,0.5,-0.5,0,0,0,2,0,0,0,7,1,5
+Pablo Gozalbez,Valencia,18,FW,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Patrick Farkas,Salzburg,26,MF,6,0,0,0,0,0.1,-0.1,0,0,0,0,0,0,2
+Patrik Schick,RasenBallsport Leipzig,23,FW,20,0,0.5,-0.5,0,0,0,0,0,0,0,0,0,0
+Paulo Gazzaniga,Tottenham,27,GK,360,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pedro,Chelsea,32,"FW,MF",79,0,0.1,-0.1,0,0,0,2,0,0,0,0,1,0
+Péter Gulácsi,RasenBallsport Leipzig,29,GK,514,0,0,0,0,0.1,-0.1,0,0,0,0,0,0,0
+Philipp Köhn,Salzburg,21,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pierluigi Gollini,Atalanta,24,GK,540,0,0,0,0,0,0,0,0,0,0,0,0,1
+Přemysl Kovář,Slavia Prague,33,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Radovan Pankov,FK Crvena Zvezda,23,DF,21,0,0,0,0,0,0,0,0,0,0,1,1,1
+Rafael Tolói,Atalanta,28,DF,450,0,0.2,-0.2,0,0.1,-0.1,0,0,0,0,7,8,15
+Ramazan Özcan,Bayer Leverkusen,35,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Raúl de Tomás,Benfica,24,FW,119,1,0.4,0.6,0,0.1,-0.1,0,0,0,0,0,0,0
+Răzvan Marin,Ajax,23,MF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rhian Brewster,Liverpool,19,FW,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Róbert Mak,Zenit St. Petersburg,28,"FW,MF",8,0,0.2,-0.2,0,0,0,1,0,0,0,0,0,0
+Roman Bürki,Borussia Dortmund,28,GK,540,0,0,0,0,0,0,0,0,0,0,0,0,0
+Roman Tugarev,Lokomotiv Moscow,21,FW,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ronald Araújo,Barcelona,20,DF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rubén Sobrino,Valencia,27,FW,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ryan Sessegnon,Tottenham,19,DF,105,1,0.3,0.7,1,0.4,0.6,2,0,0,0,0,1,1
+Sami Khedira,Juventus,32,MF,265,0,0,0,0,0.4,-0.4,0,0,0,0,3,5,4
+Samuel Umtiti,Barcelona,25,DF,180,0,0,0,0,0.1,-0.1,0,0,0,0,4,1,2
+Sarpreet Singh,Bayern Munich,20,MF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scott Carson,Manchester City,33,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sebastiano Esposito,Inter,17,FW,51,0,0,0,0,0.1,-0.1,1,0,0,0,0,0,0
+Sekou Koita,Salzburg,19,FW,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Şener Özbayraklı,Galatasaray,29,DF,18,0,0,0,0,0,0,0,0,0,0,0,0,2
+Sergi Roberto,Barcelona,27,MF,275,0,0.5,-0.5,0,0.2,-0.2,2,0,0,0,3,2,1
+Sergio Rico,Paris Saint-Germain,25,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0
+Serhiy Kryvtsov,Shakhtar Donetsk,28,DF,540,0,0,0,0,0.3,-0.3,0,0,0,0,4,3,1
+Siem de Jong,Ajax,30,"FW,MF",9,0,0,0,0,0,0,0,0,0,0,0,1,1
+Simon Kjær,Atalanta,30,DF,90,0,0,0,0,0,0,0,0,0,0,1,2,4
+Simon Mignolet,Club Brugge,31,GK,540,0,0,0,0,0,0,0,0,0,0,0,0,0
+Simone Muratore,Juventus,21,MF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Smail Prevljak,Salzburg,24,FW,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Solomon Kvirkvelia,Lokomotiv Moscow,27,DF,90,0,0,0,0,0,0,0,0,0,0,2,0,1
+Srđan Babić,FK Crvena Zvezda,23,DF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stanislav Magkeev,Lokomotiv Moscow,20,DF,21,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stefan Savić,Atletico Madrid,28,"DF,MF",90,1,0.6,0.4,0,0,0,0,0,0,0,2,0,2
+Stephen Odey,Genk,21,FW,9,1,0.2,0.8,0,0,0,0,0,0,0,0,0,0
+Sven Bender,Bayer Leverkusen,30,MF,540,1,0.2,0.8,0,0,0,1,0,0,0,18,8,8
+Sven Ulreich,Bayern Munich,30,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Taylor Harwood-Bellis,Manchester City,17,DF,8,0,0,0,0,0,0,0,0,0,0,0,0,0
+Thiago Maia,Lille,22,MF,66,0,0,0,0,0,0,0,0,0,0,1,2,3
+Thiago Silva,Paris Saint-Germain,34,DF,450,0,0.1,-0.1,0,0,0,0,0,0,0,5,3,1
+Thibault Vlietinck,Club Brugge,21,MF,70,0,0,0,0,0.1,-0.1,0,0,0,0,1,1,1
+Thibaut Courtois,Real Madrid,27,GK,405,0,0,0,0,0,0,0,0,0,0,1,0,0
+Thierry Correia,Valencia,20,DF,20,0,0,0,0,0,0,0,0,0,0,1,1,0
+Thilo Kehrer,Paris Saint-Germain,22,DF,15,0,0,0,0,0,0,0,0,0,0,1,0,0
+Thomas Doyle,Manchester City,17,MF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Toby Alderweireld,Tottenham,30,DF,360,0,0,0,0,0.1,-0.1,0,0,0,0,4,1,1
+Tom Krauß,RasenBallsport Leipzig,18,MF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tomané,FK Crvena Zvezda,26,FW,210,0,0.8,-0.8,0,0.1,-0.1,1,0,0,0,0,0,2
+Tomáš Holeš,Slavia Prague,26,DF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Troy Parrott,Tottenham,17,FW,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Valerii Bondar,Shakhtar Donetsk,20,DF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vedran Ćorluka,Lokomotiv Moscow,33,DF,519,0,0.1,-0.1,0,0,0,0,0,0,0,13,6,4
+Veljko Simić,FK Crvena Zvezda,24,MF,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Victor Wanyama,Tottenham,28,MF,9,0,0,0,0,0,0,0,0,0,0,1,0,1
+Willy Caballero,Chelsea,37,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wojciech Szczęsny,Juventus,29,GK,450,0,0,0,0,0,0,0,0,0,0,0,0,0
+Xherdan Shaqiri,Liverpool,27,MF,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+Yunus Akgün,Galatasaray,19,FW,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Yuri Zhirkov,Zenit St. Petersburg,35,"DF,MF",73,0,0.1,-0.1,1,0.1,0.9,2,0,0,0,0,2,1
+Yvon Mvogo,RasenBallsport Leipzig,25,GK,26,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zakaria Labyad,Ajax,26,MF,45,0,0,0,0,0,0,0,0,0,0,0,1,0
+Zoran Popović,FK Crvena Zvezda,31,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
